@@ -18,4 +18,4 @@ O projeto deve abrir sozinho, caso ao contrário acesse http://localhost:3000
 - Axios, um cliente HTTP
 - Spring Boot
 - Maven
-- Java
+- Java 11
